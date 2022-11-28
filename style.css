@@ -984,7 +984,7 @@ section{
     display: none;
 }
 
-@media(max-width:1050px){
+@media(max-width:900px){
     .top-gif{
         padding: 0;
         display: none;
