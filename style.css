@@ -987,6 +987,10 @@ section{
 }
 
 @media(max-width:900px){
+    body{
+        min-width: 0;
+    }
+    
     .top-gif{
         padding: 0;
         display: none;
@@ -1074,6 +1078,7 @@ section{
     }
 
     section{
+        min-width: 0;
         margin-top: 90px;
         background-image: none;
         background-color: rgb(233, 232, 232);
