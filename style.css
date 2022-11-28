@@ -120,6 +120,7 @@ li{
 .input2-mag{
     position: absolute;
     left: 20px;
+    top: 0;
 }
 
 .sec-nav-con button{
@@ -1092,6 +1093,7 @@ section{
     .container-1-carousel{
         position: initial;
         margin: 0;
+        width: 100%;
     }
 
     .container-1-carousel ul{
