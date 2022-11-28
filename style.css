@@ -8,6 +8,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
+    min-width: 1270px;
 }
 
 li{
@@ -323,6 +324,7 @@ li{
 }
 
 section{
+    min-width: 1270px;
     width: 100vW;
     height: 210vh;
     background-image: url('adidas-bg-(1).png');
